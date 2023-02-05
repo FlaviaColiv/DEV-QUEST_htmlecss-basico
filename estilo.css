@@ -1,0 +1,27 @@
+body {
+    background-color: rgba(47, 250, 250, 0.176);
+}
+
+article {
+    border-style: solid;
+    border-width: 10px;
+    border-color: rgba(128, 128, 128, 0.661);
+    padding: 10px;
+    width: 50%;
+    box-sizing: border-box;
+    margin: 20px;
+}
+
+.texto {
+    margin: 40px;
+    padding: 20px;
+}
+
+.paragrafo1 {
+    background-color: #f5f5f5;
+
+}
+
+.paragrafo2 {
+    background-color: #f0cce2;
+}
